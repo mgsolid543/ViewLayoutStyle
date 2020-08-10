@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ViewAplikasi</string>
+    <string name="content_text">Huawei merilis Android 10 untuk jajaran smartphone besutannya. Kurang dari sepekan setelah mengungkapkan roadmap terbarunya, Huawei kini merilis EMUI 10 berbasis Android 10 untuk P30 dan P30 Pro.</string>
+
+    <string name="content_spec_display">
+        OLED capacitive touchscreen, 16M colors\n
+        6.47 inches, 102.8 cm2 (~88.6% screen-to-body ratio)\n
+        1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)\n
+        HDR10
+    </string>
+
+    <string name="content_spec_size">158 x 73.4 x 8.4 mm (6.22 x 2.89 x 0.33 in)</string>
+
+    <string name="content_spec_battery">
+        Non-removable Li-Po 4200 mAh battery\n
+        Fast charging 40W, 70% in 30 min (advertised)\n
+        Fast wireless charging 15W\n
+        Reverse wireless charging
+    </string>
+
+
+</resources>
